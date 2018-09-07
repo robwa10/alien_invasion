@@ -10,6 +10,7 @@ I make no claim to intellectual rights and this was undertaken as an exercise in
 
 To install simply clone this repository.  
 To run `cd` into the repository and run the command `python3 alien_invasion.py`
+_note_: Python 3 is required to play the game. For instructions on installing python visit there official site [here](https://www.python.org/).
   
 ## Gameplay
   
